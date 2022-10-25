@@ -3,7 +3,8 @@ import SectionParagraph from "./SectionParagraph";
 import SectionTitle from "./SectionTitle";
 import mail from "../public/mail.svg";
 import phone from "../public/phone.svg";
-import twitter from "../public/twitter.svg";
+import instagram from "../public/instagram.svg";
+import linkedin from "../public/linkedin.svg";
 import Field from "./Field";
 import Button from "./Button";
 
@@ -29,9 +30,17 @@ export default function ContactSection() {
               className="mt-6"
             />
             <ContactItem
-              icon={twitter}
-              label="Twitter"
-              value="@beelzemy"
+              icon={instagram}
+              label="Instagram"
+              href="https://www.instagram.com/prasetyoow/"
+              value="@prasetyoow"
+              className="mt-6"
+            />
+            <ContactItem
+              icon={linkedin}
+              label="Linkedin"
+              href="https://www.linkedin.com/in/wprasetyoow/"
+              value="@wprasetyoow"
               className="mt-6"
             />
           </div>
