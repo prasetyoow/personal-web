@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import prof from "../public/profile.jpg"
+import prof from "../public/profile.jpg";
 import SectionTitle from "./SectionTitle";
 import SectionParagraph from "./SectionParagraph";
 
@@ -16,24 +16,22 @@ export default function ProfileSection() {
           </div>
           <div className="md:w-7/12 w-full px-10">
             <p className="text-lg leading-relaxed">
-              Aliquam blandit leo lorem, nec vehicula mi accumsan posuere. Duis
-              condimentum ornare ante a posuere. Aliquam sem magna, sodales quis
-              congue vel, congue nec nisi. Aenean nec lorem et dolor aliquet
-              ullamcorper eu at sapien. Sed pretium mauris dui. Phasellus mollis
-              accumsan tempus. Proin laoreet hendrerit ligula, id lacinia eros.
-              Aenean consequat, felis eu malesuada lobortis, augue nisl faucibus
-              ligula, id viverra mi erat at nisl. Pellentesque habitant morbi
-              tristique senectus et netus et malesuada fames ac turpis egestas.
-              Maecenas ac aliquet eros.
+              Hello!, My name is Wahyu Prasetyo and I enjoy creating things that
+              live on internet. For all the things I have tried I finally
+              arrived to another new journey, early 2022 must be the time that I
+              interested in IT&apos;s world or coding, especially on Frontend
+              Web Development, with no knowledge on that field I tried to
+              self-taught myself on Youtube, but for someone that self-taught
+              sometimes you can lost your motivation or path. I decided to join
+              an online bootcamp at Fazztrack, there I have taught to many
+              things like building a habit to actually code, reporting your
+              progress everyday at 5 pm, building web and mobile app project and
+              lastly softskill coaching for your self development.
             </p>
 
             <p className="text-lg mt-6 leading-relaxed">
-              Aliquam a fringilla metus. Fusce ut tortor ut sem sagittis
-              convallis. Morbi et augue sed nisl fermentum dictum eget ut nisl.
-              Mauris ut dolor posuere augue porta lobortis nec sed lacus.
-              Curabitur dignissim ac lorem in tempor. Morbi id dui quis ex
-              malesuada mattis. Suspendisse potenti. Nulla euismod diam ut risus
-              mollis, id vehicula nulla dictum.
+              And now I graduated, I&apos;m now looking for a junior front-end developer position to
+              finally kick start my career and learn among professionals..
             </p>
           </div>
         </div>

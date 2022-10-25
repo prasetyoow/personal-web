@@ -13,7 +13,7 @@ export default function SkillsSection() {
       <div className="container mx-auto px-10 2xl:px-0">
         <SectionTitle>Skills</SectionTitle>
         <SectionParagraph>
-          Skills or techs that I comfortable with
+          Here are a few technologies I&apos;ve been working with recently
         </SectionParagraph>
 
         <div className="flex -mx-4 mt-20 flex-wrap">
